@@ -51,3 +51,5 @@ group :development do
   gem 'spring'
 end
 
+#Gem to rename project
+gem 'rename'
