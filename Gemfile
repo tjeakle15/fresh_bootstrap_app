@@ -53,3 +53,6 @@ end
 
 #Gem to rename project
 gem 'rename'
+
+#For authentication
+gem 'devise'
